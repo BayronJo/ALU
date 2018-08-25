@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ALU</string>
+    <string name="HintTitle">Ej: 1010</string>
+    <string name="Numero1">No deje este Campo Vacio</string>
+</resources>

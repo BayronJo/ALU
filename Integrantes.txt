@@ -1,0 +1,8 @@
+Bairon Jonathan Santos Cordova
+Fabiola Astrid Sanchez Palencia
+Karla Geraldine Padilla Lopez
+Brayan Alexander Guillen Argueta
+Alex Edgardo Hernandez Vasquez
+
+// El proceso completo de la app esta en la Clase ProcesoAlu
+//El proceso Inicia en la Linea 20
